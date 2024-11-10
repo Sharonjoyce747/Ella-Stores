@@ -10,7 +10,7 @@
 - [Data Analysis](#Data-Analysis)
 - [Results/Findings](#Results/Findings)
 - [Recommendations](#Recommendations)
-- [References]](#References)
+- [References](#References)
 
 ### Project Overview
 
