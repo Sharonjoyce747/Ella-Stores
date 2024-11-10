@@ -45,7 +45,7 @@ Measures Powerbi
 - Total Revenue = [Total Sales] + [Total Profit]
 - Unique Brands = DISTINCTCOUNT(Orders[Product Name])
 - Total quantity sold = SUM(Orders[Quantity]  )
-Data modelling in Powerbi
+- Data modelling in Powerbi
 
 ### Results/Findings
 
