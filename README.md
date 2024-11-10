@@ -10,7 +10,7 @@
 - [Data Analysis](#Data-Analysis)
 - [Results/Findings](#Results/Findings)
 - [Recommendations](#Recommendations)
-- [References](#References)
+
 
 ### Project Overview
 
@@ -41,19 +41,20 @@ EDA involved exploring the sales data to answer key business questions:
 
 ### Data Analysis
 
-''' Measures Powerbi
+Measures Powerbi
 - Total Revenue = [Total Sales] + [Total Profit]
 - Unique Brands = DISTINCTCOUNT(Orders[Product Name])
 - Total quantity sold = SUM(Orders[Quantity]  )
-'''
 Data modelling in Powerbi
 
 ### Results/Findings
 
 The analysis results are summarized as follows:
 - Room for Growth: Middle and underperforming salespeople have potential for improvement with targeted training and support.
-- Technology: High demand for tech products, potentially driven by business upgrades or consumer electronics. High profit margins likely due to competitive pricing, efficient supply chain, or value-added services.
-- Furniture: Strong sales indicate a thriving office and home furniture market, potential for expansion through designer collaboration. Low profit margins may result from high production or procurement costs, inefficient logistics or inventory management, insufficient pricing strategy or competition.
+- Technology: High demand for tech products, potentially driven by business upgrades or consumer electronics. High profit margins likely due to competitive pricing, 
+  efficient supply chain, or value-added services.
+- Furniture: Strong sales indicate a thriving office and home furniture market, potential for expansion through designer collaboration. Low profit margins may result 
+  from high production or procurement costs, inefficient logistics or inventory management, insufficient pricing strategy or competition.
 - Office Supplies: Steady demand for essential office products, suggesting a stable customer base, opportunities for growth through eco-friendly or specialty product 
   offerings. Stable profit margins indicate a well-established customer base and efficient operations, potential for expansion.
 - Growing Sales Trend: Sales increased steadily from 2014 to 2017.
@@ -71,8 +72,6 @@ The analysis results are summarized as follows:
 - Implement loyalty programs
 - Summer Promotions: Offer incentives to maintain sales during slower months.
 
-### References
-1. www.kaggle.com
 
 
 
