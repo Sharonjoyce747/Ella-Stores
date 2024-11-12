@@ -41,10 +41,11 @@ EDA involved exploring the sales data to answer key business questions:
 
 ### Data Analysis
 
-Measures Powerbi
-- Total Revenue = [Total Sales] + [Total Profit]
-- Unique Brands = DISTINCTCOUNT(Orders[Product Name])
-- Total quantity sold = SUM(Orders[Quantity]  )
+Using Powerbi
+
+- Total Revenue `=[Total Sales] + [Total Profit]`
+- Unique Brands `=DISTINCTCOUNT(Orders[Product Name])`
+- Total quantity sold `=SUM(Orders[Quantity]  )`
 - Data modelling in Powerbi
 
 ### Results/Findings
